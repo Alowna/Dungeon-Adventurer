@@ -1,7 +1,7 @@
 # 2D Dungeon Adventurer Project Progress
 ---
 ## Introduction
-This is my first public project, which I decided to start with something more visual and interactive. There will be two repositories for such project, this one, intended to show the progress part by part, and the final project repository, where the actual complete game will be uploaded to.
+This is my first public project, which I decided to start with something more visual and interactive. The entire project will be in C++ and it is intended to be simple, for learning purposes.
 
 ## References
 I'm using a few references to learn, which will also be uploaded in the README during the development.
@@ -15,5 +15,8 @@ Since I'm not an artist, the design will purely consist of funny PNGs and/or GIF
 
 ## Soundtrack
 Same goes here, only funny cat songs.
+
+## Story Setup
+You play as an evil cat, with malicious intent to pulverize the entire population of the dog world where they just woke up, in the beginning of their journey. Along your journey you will come across different NPCs, choices and unlockable skills.
 
 ---
