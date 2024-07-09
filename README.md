@@ -1,4 +1,4 @@
-# 2D Dungeon Adventurer Project Progress
+# 2D Dungeon Adventurer Project
 ---
 ## Introduction
 This is my first public project, which I decided to start with something more visual and interactive. The entire project will be in C++ and it is intended to be simple, for learning purposes.
