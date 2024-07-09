@@ -5,6 +5,7 @@ This is my first public project, which I decided to start with something more vi
 
 ## References
 I'm using a few references to learn, which will also be uploaded in the README during the development.
+
 ---
 ## Gameplay
 The main character is supposed to engage in combat with NPCs, be able to unlock skills, make choices and roam around the enviroment.
